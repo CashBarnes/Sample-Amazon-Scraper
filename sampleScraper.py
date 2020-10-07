@@ -1,7 +1,7 @@
 # Simple Sample Amazon Scraper by Cash Barnes
 # requirements:
-# Selenium (make sure you are using the correct version for your browser)
-# Chrome
+# Selenium 
+# Chrome    (make sure you are using the correct version of chromedriver for your browser)
 # BeautifulSoup4
 # sample_input.csv with list of search terms. Each search term should be the only thing on the row.
 

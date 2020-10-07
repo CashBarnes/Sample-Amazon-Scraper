@@ -2,7 +2,7 @@
 # requirements:
 # Selenium (make sure you are using the correct version for your browser)
 # Chrome
-# BeautifulSoup
+# BeautifulSoup4
 # sample_input.csv with list of search terms. Each search term should be the only thing on the row.
 
 from selenium import webdriver  # make sure you are using the correct webdriver for the version of Chrome you are using
